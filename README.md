@@ -3,7 +3,7 @@
 # Discord-Musik-Bot
 
 [![Downloads]
-
+[![Discord](https://discordapp.com/api/guilds/147698382092238848/widget.png)](https://discord.gg/9ygGmU6zF4)<br>
 A cross-platform Discord music bot with a clean interface, and that is easy to set up and run yourself!
 
 
