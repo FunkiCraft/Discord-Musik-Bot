@@ -5,6 +5,9 @@
 ![Downloads](https://img.shields.io/github/downloads/jagrosh/MusicBot/total.svg)
 [![Stars](https://img.shields.io/github/stars/jagrosh/MusicBot.svg)](https://github.com/FunkiCraft/MusicBot/stargazers)
 [![Discord](https://discordapp.com/api/guilds/147698382092238848/widget.png)](https://discord.gg/9ygGmU6zF4)<br>
+[![CodeFactor](https://www.codefactor.io/repository/github/jagrosh/musicbot/badge)]
+[![AppVeyor](https://ci.appveyor.com/api/projects/status/gdu6nyte5psj6xfk/branch/master?svg=true)]
+
 A cross-platform Discord music bot with a clean interface, and that is easy to set up and run yourself!
 
 
