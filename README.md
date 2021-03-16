@@ -1,4 +1,4 @@
-<img align="right" src="https://i.imgur.com/zrE80HY.png" height="200" width="200">
+<img align="right" src="https://f4.bcbits.com/img/a3993873514_10.jpg" height="200" width="200">
 
 # Discord-Musik-Bot
 
