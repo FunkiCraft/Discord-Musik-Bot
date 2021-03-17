@@ -8,7 +8,7 @@
 ![CodeFactor](https://www.codefactor.io/repository/github/jagrosh/musicbot/badge)
 ![AppVeyor](https://ci.appveyor.com/api/projects/status/gdu6nyte5psj6xfk/branch/master?svg=true)
 [![Add my own Bot to your Server](https://img.shields.io/badge/Invite-3846-brightgreen)](https://discord.com/api/oauth2/authorize?client_id=810616334513602620&permissions=8&scope=bot)
-
+[![Follow me on Instagram](https://img.shields.io/badge/Follower-2%2C3k-red)](https://www.instagram.com/fe_fu_bu/)
 
 A cross-platform Discord music bot with a clean interface, and that is easy to set up and run yourself!
 
