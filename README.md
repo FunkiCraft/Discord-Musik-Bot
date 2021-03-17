@@ -2,7 +2,7 @@
 
 # Discord-Musik-Bot
 
-![Downloads](https://img.shields.io/github/downloads/jagrosh/MusicBot/total.svg)
+[![Downloads](https://img.shields.io/github/downloads/jagrosh/MusicBot/total.svg)](https://github.com/FunkiCraft/Discord-Musik-Bot/releases/tag/Musik_Bot.file)
 [![Stars](https://img.shields.io/github/stars/jagrosh/MusicBot.svg)](https://github.com/FunkiCraft/MusicBot/stargazers)
 [![Discord](https://discordapp.com/api/guilds/147698382092238848/widget.png)](https://discord.gg/9ygGmU6zF4)<br>
 ![CodeFactor](https://www.codefactor.io/repository/github/jagrosh/musicbot/badge)
