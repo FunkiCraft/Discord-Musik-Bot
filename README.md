@@ -28,7 +28,7 @@ A cross-platform Discord music bot with a clean interface, and that is easy to s
   * Playlist support (both web/youtube, and local)
 
 ## Example
-![Loading Example...](https://imgur.com/gallery/pC11r3P)
+![Loading Example...](<blockquote class="imgur-embed-pub" lang="en" data-id="a/pC11r3P"><a href="//imgur.com/a/pC11r3P">Musik Bot Example</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
 
 
 ## Editing
