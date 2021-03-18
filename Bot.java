@@ -1,7 +1,7 @@
 /*
  * Funki_Craft
  */
-package com.jagrosh.musicbot;
+package com.funkicraft.musicbot;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
