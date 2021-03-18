@@ -29,7 +29,7 @@ import org.slf4j.LoggerFactory;
  *
  * @author Funki_Craft (funki_craft)
  */
-public class JMusicBot 
+public class MusicBot 
 {
     public final static String PLAY_EMOJI  = "\u25B6"; // ▶
     public final static String PAUSE_EMOJI = "\u23F8"; // ⏸
