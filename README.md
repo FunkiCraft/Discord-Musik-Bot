@@ -5,8 +5,8 @@
 [![Downloads](https://img.shields.io/github/downloads/jagrosh/MusicBot/total.svg)](https://github.com/FunkiCraft/Discord-Musik-Bot/releases/tag/Musik_Bot.file)
 [![Stars](https://img.shields.io/github/stars/jagrosh/MusicBot.svg)](https://github.com/FunkiCraft/MusicBot/stargazers)
 [![Discord](https://discordapp.com/api/guilds/147698382092238848/widget.png)](https://discord.gg/9ygGmU6zF4)<br>
-![CodeFactor](https://www.codefactor.io/repository/github/jagrosh/musicbot/badge)
-![AppVeyor](https://ci.appveyor.com/api/projects/status/gdu6nyte5psj6xfk/branch/master?svg=true)
+[![CodeFactor](https://www.codefactor.io/repository/github/jagrosh/musicbot/badge)](https://www.instagram.com/fe_fu_bu/)
+[![AppVeyor](https://ci.appveyor.com/api/projects/status/gdu6nyte5psj6xfk/branch/master?svg=true)](https://www.instagram.com/fe_fu_bu/)
 [![Add my own Bot to your Server](https://img.shields.io/badge/Invite%20the%20Bot-3846-brightgreen)](https://discord.com/api/oauth2/authorize?client_id=810616334513602620&permissions=8&scope=bot)
 [![Follow me on Instagram](https://img.shields.io/badge/Follow%20me%20on%20Instagram-2%2C3k-red)](https://www.instagram.com/fe_fu_bu/)
 [![Logo](https://img.shields.io/badge/Download%20my%20official%20Logo-3%2C4k-brightgreen)](https://f4.bcbits.com/img/a3993873514_10.jpg)
