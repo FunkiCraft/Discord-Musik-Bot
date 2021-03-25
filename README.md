@@ -10,6 +10,7 @@
 [![Add my own Bot to your Server](https://img.shields.io/badge/Invite%20the%20Bot-3846-brightgreen)](https://discord.com/api/oauth2/authorize?client_id=810616334513602620&permissions=8&scope=bot)
 [![Follow me on Instagram](https://img.shields.io/badge/Follow%20me%20on%20Instagram-2%2C3k-red)](https://www.instagram.com/fe_fu_bu/)
 [![Logo](https://img.shields.io/badge/Download%20my%20official%20Logo-3%2C4k-brightgreen)](https://f4.bcbits.com/img/a3993873514_10.jpg)
+[![Website](https://img.shields.io/badge/My%20Website-1232%20Users-blue)](http://funki-craft.great-site.net/home/)
 
 
 A cross-platform Discord music bot with a clean interface, and that is easy to set up and run yourself!
